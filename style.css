@@ -1,0 +1,30 @@
+.pageStyle{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(146, 98, 57);
+    width: 1366px;
+    height: 768px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border: 0ch;
+}
+
+.photo{
+    background-repeat: no-repeat;
+}
+.Header{
+
+}
+.buttom{
+
+}
+h4{
+    font-weight:normal;
+}
+.p_1{
+    color:rgb(244, 244, 244);
+    background-color: rgb(146, 98, 57);
+}
+.p_2{
+    color:rgb(146, 98, 57);
+    background-color: rgb(244, 244, 244);
+}

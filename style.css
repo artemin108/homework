@@ -5,17 +5,24 @@
     height: 768px;
     background-size:cover;
     background-repeat: no-repeat;
-    border: 0ch;
+    text-align:center;
 }
 
 .photo{
+    width: 1366px;
+    height: 768px;
+    background-size:cover;
     background-repeat: no-repeat;
 }
 .Header{
 
 }
-.buttom{
-
+.button{
+    border: 1px solid rgb(146, 98, 57);
+    border-radius: 10px;
+    width: 110px;
+    height: 45px;
+    
 }
 h4{
     font-weight:normal;

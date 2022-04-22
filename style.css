@@ -1,48 +1,47 @@
-.pageStyle{
-    font-family:Arial, Helvetica, sans-serif;
-    color:rgb(146, 98, 57);
-    text-align:center; 
-    vertical-align: text-top;
+.pageStyle {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(146, 98, 57);
+  text-align: center;
+  vertical-align: text-top;
 }
-.forImage{
-    background-image:
-    url("beach-beachlife-salt-water-21859-scaled.jpg");
-    height: 100vh;   
-    background-size:cover;
-    background-repeat: no-repeat;
+.forImage {
+  background-image: url("beach-beachlife-salt-water-21859-scaled.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.Header{
-    font-weight:normal;
-    vertical-align: text-top;
-    position: absolute;
-    top: 40%;
-    justify-content: center;
-    left:0;
-    right: 0;
-    margin: 0 auto;
+.Header {
+  font-weight: normal;
+  vertical-align: text-top;
+  position: absolute;
+  top: 40%;
+  justify-content: center;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
 }
-.button{
-    border: 1px solid rgb(146, 98, 57);
-    border-radius: 10px;
-    width: 110px;
-    height: 40px;
-    padding-bottom: 15px;
-    position: absolute;
-    top: 58%;
-    left:0;
-    right: 0;
-    margin: 0 auto;
+.button {
+  border: 1px solid rgb(146, 98, 57);
+  border-radius: 10px;
+  width: 110px;
+  height: 40px;
+  padding-bottom: 15px;
+  position: absolute;
+  top: 58%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
 }
-h4{
-    font-weight:normal;
+h4 {
+  font-weight: normal;
 }
-.p_1{
-    color:rgb(244, 244, 244);
-    background-color: rgb(146, 98, 57);
-    padding: 5px;
+.p_1 {
+  color: rgb(244, 244, 244);
+  background-color: rgb(146, 98, 57);
+  padding: 5px;
 }
-.p_2{
-    color:rgb(146, 98, 57);
-    background-color: rgb(244, 244, 244);
-    padding: 5px;
+.p_2 {
+  color: rgb(146, 98, 57);
+  background-color: rgb(244, 244, 244);
+  padding: 5px;
 }
